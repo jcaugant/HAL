@@ -4,6 +4,7 @@ Cela peut être utile pour les gestionnaires qui travaillent avec un grand nombr
 Avant de lancer ce script, il convient d'effectuer l'opération suivante :
 - création un fichier .txt appelé "liste.txt" (il est possible de le faire directement dans Jupyter)
 - ajouter l'acronyme des labos dont vous souhaitez controler la présence ou non de doublons. A chaque acronyme, faites un retour à la ligne
+- ATTENTION : pour les acronymes ou les structures en plusieurs mots, veuillez remplacer les espaces par des "+", sinon le script plantera!
 - une fois cela fait, enregistrer votre fichier " liste.txt "
 - lancer ensuite votre script
 
